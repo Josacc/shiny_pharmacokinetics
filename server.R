@@ -1,15 +1,3 @@
-library(shiny)
-library(tidyverse)
-library(readxl)
-library(plotly)
-library(scales)
-library(DT)
-library(shinydashboard)
-library(shinyWidgets)
-library(shinycssloaders)
-library(shinyFeedback)
-library(mosaic)
-library(mosaicCalc)
 
 function(input, output, session) {
 
